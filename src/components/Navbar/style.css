@@ -1,0 +1,13 @@
+.nav-link,
+.nav-brand {
+  text-decoration-color: #ffe66e;
+}
+.navbar-toggler {
+  background-color: black;
+  border-color: #ffe66e;
+}
+.fa-gem {
+    background-color: black;
+    color:#ffe66e; 
+    font-size:  30px;
+}

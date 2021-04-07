@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda+One&display=swap");
+* {
+  font-family: "Merienda One", cursive;
+  color: #ffe66e;
+}
+
+body {
+  background-image: url("./assets/images/GoldAndBlackBackground.png");
+}

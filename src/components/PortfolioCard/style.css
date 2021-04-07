@@ -1,0 +1,45 @@
+.wholeCard {
+  max-width: 1240px;
+  /* line 66 */
+}
+.imageStyling {
+  padding-top: 80px;
+  padding-right: 35px ;
+  height: 300px ;
+  width: 290px;
+  /* line 71 */
+}
+.card-title {
+    text-decoration: underline
+    /* line 80 */
+}
+.cardCenter {
+    text-align: center 
+    /* line 98 */
+}
+.mb-3 {
+  border: solid white 5px ;
+}
+h5 {
+text-shadow: 4px 4px 4px #ffe66e;
+font-size: x-large;
+}
+.marginRight {
+margin-right: 3px;
+}
+
+.marginLeft {
+margin-left: 3px;
+}
+
+.g-0 {
+  background-color: black;
+}
+
+.btn-dark:hover {
+cursor: pointer;
+box-shadow: 0 0.4rem 1.4rem 0 #ffe66e;
+transition: transform 150ms;
+transform: scale(1.03);
+color: #ffe66e;
+}
