@@ -9,15 +9,9 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Route exact path={["/", "/About"]}>
-          <About />
-        </Route>
-        <Route exact path="/Contact">
-          <Contact />
-        </Route>
-        <Route exact path="/Portfolio">
-          <Portfolio />
-        </Route>
+        <Route exact path={["/", "/About"]} component={About}/>   
+        <Route exact path="/Contact" component={Contact}/>
+        <Route exact path="/Portfolio" component={Portfolio}/>
         <Footer />
       </div>
     </Router>
