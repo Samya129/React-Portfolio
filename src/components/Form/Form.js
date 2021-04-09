@@ -3,7 +3,6 @@ import "./style.css";
 
 function Form() {
   return (
-    <div>
       <div class="col-md-6">
         <form action="">
           <aside class="form-group">
@@ -47,7 +46,6 @@ function Form() {
           {/* </a> */}
         </form>
       </div>
-    </div>
   );
 }
 

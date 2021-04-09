@@ -6,12 +6,6 @@ import TheNoteTaker from "./assets/images/TheNoteTaker.png"
 import TeamProfileGenerator from "./assets/images/TeamProfileGenerator.png"
 import EmployeeTracker from "./assets/images/EmployeeTracker.png"
 
-export let generalInfo = [
-  {
-    header: "Welcome to my page!"
-
-  }
-]
 export let projects = [
   {
     id: 0,
