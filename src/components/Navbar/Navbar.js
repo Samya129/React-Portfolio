@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, useLocation} from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import "./style.css";
 
 function Navbar() {
@@ -26,13 +26,32 @@ function Navbar() {
 
         <nav className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
-            <Link className={location.pathname === "/About" ? "nav-link active" : "nav-link"} to="/About">
+            <Link
+              className={
+                location.pathname === "/About" ? "nav-link active" : "nav-link"
+              }
+              to="/About"
+            >
               Home <nav className="sr-only">(current)</nav>
             </Link>
-            <Link className={location.pathname === "/Contact" ? "nav-link active" : "nav-link"} to="/Contact">
+            <Link
+              className={
+                location.pathname === "/Contact"
+                  ? "nav-link active"
+                  : "nav-link"
+              }
+              to="/Contact"
+            >
               Contact
             </Link>
-            <Link className={location.pathname === "/Portfolio" ? "nav-link active" : "nav-link"} to="/Portfolio">
+            <Link
+              className={
+                location.pathname === "/Portfolio"
+                  ? "nav-link active"
+                  : "nav-link"
+              }
+              to="/Portfolio"
+            >
               Portfolio
             </Link>
           </div>

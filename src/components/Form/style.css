@@ -1,9 +1,10 @@
-form{
-    margin-top: 15px; margin: auto
+form {
+  margin-top: 15px;
+  margin: auto;
 }
-aside{
-    margin-top: 15px
+aside {
+  margin-top: 15px;
 }
 .form-control {
-    text-shadow: 4px 4px 4px #ffe66e;
-    }
+  text-shadow: 4px 4px 4px #ffe66e;
+}

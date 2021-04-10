@@ -9,10 +9,10 @@ function Contact() {
       <Navbar />
       <br></br>
       <section class="container">
-      <section class="row">
-      <ContactAdditional/>
-      <Form />
-      </section>
+        <section class="row">
+          <ContactAdditional />
+          <Form />
+        </section>
       </section>
     </div>
   );

@@ -7,11 +7,11 @@ import Portfolio from "./pages/Portfolio/Portfolio";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL+"/"}>
+    <Router basename={process.env.PUBLIC_URL + "/"}>
       <div className="App">
-        <Route exact path={["/","/About"]} component={About}/>   
-        <Route exact path="/Contact" component={Contact}/>
-        <Route exact path="/Portfolio" component={Portfolio}/>
+        <Route exact path={["/", "/About"]} component={About} />
+        <Route exact path="/Contact" component={Contact} />
+        <Route exact path="/Portfolio" component={Portfolio} />
         <Footer />
       </div>
     </Router>

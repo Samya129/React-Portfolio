@@ -1,10 +1,10 @@
 figcaption {
-  text-align: center;  
+  text-align: center;
 }
 .jumbotron {
-    background: black;
-    opacity: 0.8;
-    border-bottom: solid white;
+  background: black;
+  opacity: 0.8;
+  border-bottom: solid white;
 }
 .col-md-8 {
   text-align: center;
@@ -15,4 +15,4 @@ figcaption {
 .professionalPhoto {
   width: auto;
   height: auto;
-  }
+}
