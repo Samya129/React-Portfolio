@@ -7,7 +7,7 @@ import Portfolio from "./pages/Portfolio/Portfolio";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL+"/"}>
       <div className="App">
         <Route exact path={["/","/About"]} component={About}/>   
         <Route exact path="/Contact" component={Contact}/>
