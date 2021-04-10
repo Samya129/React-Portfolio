@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.43aa73de.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.ea1cdcd6.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.ea1cdcd6.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.1e033db7.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.fe029b6f.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.fe029b6f.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.56b9575d.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.56b9575d.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.e72ae22a.chunk.js": "/React-Portfolio/static/js/2.e72ae22a.chunk.js",
-    "static/js/2.e72ae22a.chunk.js.map": "/React-Portfolio/static/js/2.e72ae22a.chunk.js.map",
+    "static/js/2.a412f5b0.chunk.js": "/React-Portfolio/static/js/2.a412f5b0.chunk.js",
+    "static/js/2.a412f5b0.chunk.js.map": "/React-Portfolio/static/js/2.a412f5b0.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.43aa73de.chunk.css.map": "/React-Portfolio/static/css/main.43aa73de.chunk.css.map",
-    "static/js/2.e72ae22a.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.e72ae22a.chunk.js.LICENSE.txt",
+    "static/css/main.1e033db7.chunk.css.map": "/React-Portfolio/static/css/main.1e033db7.chunk.css.map",
+    "static/js/2.a412f5b0.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.a412f5b0.chunk.js.LICENSE.txt",
+    "static/media/Beach.8c1cb94a.png": "/React-Portfolio/static/media/Beach.8c1cb94a.png",
+    "static/media/CommunityService.28542cf9.png": "/React-Portfolio/static/media/CommunityService.28542cf9.png",
+    "static/media/Connect.b48dc806.png": "/React-Portfolio/static/media/Connect.b48dc806.png",
     "static/media/DailyPlanner.1b0de079.png": "/React-Portfolio/static/media/DailyPlanner.1b0de079.png",
     "static/media/EmployeeTracker.b7032a2d.png": "/React-Portfolio/static/media/EmployeeTracker.b7032a2d.png",
     "static/media/App.css": "/React-Portfolio/static/media/GoldAndBlackBackground.4ff0d25d.png",
     "static/media/MarvelCrossover.65edc09e.png": "/React-Portfolio/static/media/MarvelCrossover.65edc09e.png",
     "static/media/OooDaBurger.740cd170.png": "/React-Portfolio/static/media/OooDaBurger.740cd170.png",
+    "static/media/SalsaDance.3c8ed2d2.png": "/React-Portfolio/static/media/SalsaDance.3c8ed2d2.png",
     "static/media/TeamProfileGenerator.dc8d0614.png": "/React-Portfolio/static/media/TeamProfileGenerator.dc8d0614.png",
     "static/media/TheNoteTaker.2bf80a6e.png": "/React-Portfolio/static/media/TheNoteTaker.2bf80a6e.png",
     "static/media/WeatherDashboard.33ec02d3.png": "/React-Portfolio/static/media/WeatherDashboard.33ec02d3.png"
@@ -24,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.56b9575d.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.e72ae22a.chunk.js",
-    "static/css/main.43aa73de.chunk.css",
-    "static/js/main.ea1cdcd6.chunk.js"
+    "static/js/2.a412f5b0.chunk.js",
+    "static/css/main.1e033db7.chunk.css",
+    "static/js/main.fe029b6f.chunk.js"
   ]
 }
