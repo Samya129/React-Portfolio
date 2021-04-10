@@ -1,16 +1,38 @@
 h1 {
   text-align: center;
   text-decoration: underline;
+  margin-bottom: 40px;
+  text-shadow: 4px 4px 4px #ffe66e;
+}
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: x-large;
+  text-shadow: 4px 4px 4px #ffe66e;
 }
 #Beach {
-    width: 289; 
-    height: 289;
+  width: 289;
+  height: 289;
+  width: auto;
+  height: auto;
 }
 .dancing {
-    width: 289;
-    height: 289; 
+  width: 289;
+  height: 289;
+  width: auto;
+  height: auto;
 }
 #communityService {
-    width: 289;
-    height: 289;
+  width: 289;
+  height: 289;
+  width: auto;
+height: auto;
+}
+.MainParagraphs,
+h2 {
+  margin-top: 20px;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
 }
